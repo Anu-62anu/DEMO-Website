@@ -1,1 +1,1 @@
-Demo website
+Getting Started with responsive website
