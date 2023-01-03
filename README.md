@@ -1,1 +1,1 @@
-Getting Started with responsive website
+Getting Started with creating responsive websites
